@@ -3,7 +3,7 @@ Monte Carlo Algorithm Complexity Analyser
 
 Trying to analyse average time complexity of algorithms via Monte Carlo + stats
 
-Associated blog post 
+[Associated blog post](https://medium.com/@svineet/analysing-the-covid-19-binary-search-testing-algorithm-via-monte-carlo-method-part-1-951049cdb212)
 
 Usage
 ---
